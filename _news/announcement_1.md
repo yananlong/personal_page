@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: July 2024
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am co-organizing the ML4LMS and Queer in AI workshops at ICML 2024
