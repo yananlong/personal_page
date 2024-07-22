@@ -11,12 +11,11 @@ profile:
     <p>University of Chicago</p>
 
 news: true # includes a list of news items
+latest_posts: false
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello!
+Hello! My name is Yanan (he/they)
 
 I am a Bayesian statistician and machine learning researcher at the University of Chicago. 
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
